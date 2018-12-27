@@ -3,9 +3,9 @@
 [![Build Status](https://travis-ci.org/lingochamp/fluent-plugin-statsd.svg?branch=master)](https://travis-ci.org/lingochamp/fluent-plugin-statsd)
 [![Gem Version](https://badge.fury.io/rb/fluent-plugin-statsd-output.svg)](https://badge.fury.io/rb/fluent-plugin-statsd-output)
 
-# Help maintaining this project
+# This project will no longer be maintained。
 
-Because we are no longer using this project, and I don't have time to update it, if you are interested in maintaining it, I will transfer it to you. and thanks for your help
+[imnotjames/fluent-plugin-statsd](https://github.com/imnotjames/fluent-plugin-statsd) will continue do it.
 
 # Installation
 
